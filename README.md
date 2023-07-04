@@ -2,7 +2,7 @@
 
 ## Description
 
-- The motivation to learn how to code stems from the challenge it brings and the career growth opputunities.
+- The motivation to learn how to code stems from the challenge it brings and the career growth opportunities.
 - I built this project to practice the fundamentals of HTML CSS and JS.
 - It solves the problem of not knowing where to start practicing coding. A guided project like this is a great foundation to build off of to test new knowledge.
 - I was familiar with the HTML, CSS, and JS concepts. However, saving this project to GitHub and using Git were all new skills I learned.
