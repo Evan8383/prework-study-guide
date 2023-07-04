@@ -8,7 +8,7 @@ header, footer {
     justify-content: center;
     margin: auto;
     width: 90%;
-    height: 120px;
+    height: auto;
     background-color: #2D304F;
     color: whitesmoke;
     border-radius: 10px ;
