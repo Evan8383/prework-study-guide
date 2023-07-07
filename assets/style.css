@@ -8,6 +8,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: end;
+    background
 }
 header h1{
     font-family: 'Courier New', Courier, monospace;
@@ -69,4 +70,14 @@ header h1:hover::before{
 .topicWrap{
     width: 80%;
     margin:auto; 
+}
+.topicWrap h2{
+    display:flex;
+    padding-bottom: 10px;
+    margin: auto;
+    justify-content: center;
+    
+}
+.notes {
+    list-style: none;
 }
